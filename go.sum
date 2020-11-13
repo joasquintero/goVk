@@ -1,0 +1,6 @@
+github.com/vulkan-go/asche v0.0.0-20190912134304-d4b318b67e07/go.mod h1:fIbNY6YffQRtdF22h26OXRprI/BGOWPKlxJWtNC78OA=
+github.com/vulkan-go/vulkan v0.0.0-20200123094538-aa511c71e200 h1:Gd8JCplUKwEoAx/9s/zL9DQzNdxmWidxd2uM4zVpURw=
+github.com/vulkan-go/vulkan v0.0.0-20200123094538-aa511c71e200/go.mod h1:X6Qqg0j5A5cYHhFXUOl6TL/vYdyh/ajvyCvh+sEHQFI=
+github.com/xlab/linmath v0.0.0-20170502193301-512668b827be/go.mod h1:fgIYDv0Jdzzt+7Us/LdHhBL5N7xqDoj7Jgyf9da1mH4=
+github.com/xlab/tablewriter v0.0.0-20160610135559-80b567a11ad5 h1:gmD7q6cCJfBbcuobWQe/KzLsd9Cd3amS1Mq5f3uU1qo=
+github.com/xlab/tablewriter v0.0.0-20160610135559-80b567a11ad5/go.mod h1:fVwOndYN3s5IaGlMucfgxwMhqwcaJtlGejBU6zX6Yxw=
